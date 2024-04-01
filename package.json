@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@uidotdev/usehooks": "^2.4.1",
+    "framer-motion": "^11.0.24"
+  }
+}
